@@ -16,6 +16,11 @@ alter procedure merge_dinaymic
   
 as  
   
+  /* Minhas redes:
+Blog: https://blogdoleandrosp.blogspot.com/
+Linkedin: https://www.linkedin.com/in/leandro-sampaio-510599117/
+
+*/
 set nocount on 
 
   if @help = 1
